@@ -7,4 +7,9 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PairToe.Business\PairToe.Business.csproj" />
+    <ProjectReference Include="..\PairToe.Common\PairToe.Common.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairToe", "PairToe.csproj", "{582B18F9-C52B-427B-8B84-A59FBD9C27B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PairToe", "PairToe.csproj", "{582B18F9-C52B-427B-8B84-A59FBD9C27B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairToe.Business", "..\PairToe.Business\PairToe.Business.csproj", "{161231DB-653B-4401-A41D-DE6837B9FD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairToe.Common", "..\PairToe.Common\PairToe.Common.csproj", "{2866A78F-0220-45FC-9ACE-8ED2D21B638A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{582B18F9-C52B-427B-8B84-A59FBD9C27B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{582B18F9-C52B-427B-8B84-A59FBD9C27B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{582B18F9-C52B-427B-8B84-A59FBD9C27B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161231DB-653B-4401-A41D-DE6837B9FD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161231DB-653B-4401-A41D-DE6837B9FD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161231DB-653B-4401-A41D-DE6837B9FD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161231DB-653B-4401-A41D-DE6837B9FD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2866A78F-0220-45FC-9ACE-8ED2D21B638A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2866A78F-0220-45FC-9ACE-8ED2D21B638A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2866A78F-0220-45FC-9ACE-8ED2D21B638A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2866A78F-0220-45FC-9ACE-8ED2D21B638A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
