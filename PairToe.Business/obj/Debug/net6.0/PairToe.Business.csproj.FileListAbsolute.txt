@@ -1,0 +1,15 @@
+C:\Users\Zentop\source\repos\PairToe.Business\bin\Debug\net6.0\PairToe.Business.deps.json
+C:\Users\Zentop\source\repos\PairToe.Business\bin\Debug\net6.0\PairToe.Business.dll
+C:\Users\Zentop\source\repos\PairToe.Business\bin\Debug\net6.0\PairToe.Business.pdb
+C:\Users\Zentop\source\repos\PairToe.Business\bin\Debug\net6.0\PairToe.Common.dll
+C:\Users\Zentop\source\repos\PairToe.Business\bin\Debug\net6.0\PairToe.Common.pdb
+C:\Users\Zentop\source\repos\PairToe.Business\obj\Debug\net6.0\PairToe.Business.csproj.AssemblyReference.cache
+C:\Users\Zentop\source\repos\PairToe.Business\obj\Debug\net6.0\PairToe.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zentop\source\repos\PairToe.Business\obj\Debug\net6.0\PairToe.Business.AssemblyInfoInputs.cache
+C:\Users\Zentop\source\repos\PairToe.Business\obj\Debug\net6.0\PairToe.Business.AssemblyInfo.cs
+C:\Users\Zentop\source\repos\PairToe.Business\obj\Debug\net6.0\PairToe.Business.csproj.CoreCompileInputs.cache
+C:\Users\Zentop\source\repos\PairToe.Business\obj\Debug\net6.0\PairToe.Business.csproj.CopyComplete
+C:\Users\Zentop\source\repos\PairToe.Business\obj\Debug\net6.0\PairToe.Business.dll
+C:\Users\Zentop\source\repos\PairToe.Business\obj\Debug\net6.0\refint\PairToe.Business.dll
+C:\Users\Zentop\source\repos\PairToe.Business\obj\Debug\net6.0\PairToe.Business.pdb
+C:\Users\Zentop\source\repos\PairToe.Business\obj\Debug\net6.0\ref\PairToe.Business.dll
